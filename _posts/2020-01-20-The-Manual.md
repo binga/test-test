@@ -13,3 +13,7 @@ categories: [books, philosophy]
 - At a feast, taking the largest helping may be good for your appetite, but sharing generously is good for the spirit of the celebration. In this case, honoring your hosts and fellow guests should be valued above sating your hunger.
 - Care for your body as needed, but put your main energies and efforts into cultivating your mind.
 - Do not proclaim yourself a philosopher, or go around preaching your principles. Show them by example.  At a feast, do not give a speech about how everyone should eat. Only eat as you should.
+
+Inspiration to read this book:
+
+{% twitter https://twitter.com/dhh/status/1110668520809857024 %}
