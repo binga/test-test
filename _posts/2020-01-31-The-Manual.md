@@ -1,5 +1,6 @@
 ---
 toc: true
+comments: true
 description: A philosopher's guide to life
 categories: [fastpages, markdown]
 ---
