@@ -2,7 +2,7 @@
 toc: true
 comments: true
 description: A philosopher's guide to life
-categories: [fastpages, markdown]
+categories: [books, philosophy]
 ---
 # The Manual By Epictetus
 - Stoicism doesn’t mean repressing emotion and shunning pleasure, I learned, but—in essence—focusing on what is in our power and letting go of everything we can’t control.
