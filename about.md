@@ -3,11 +3,12 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+# Welcome To My Website
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am Phani Srikanth and I currently work as a Data Scientist at Microsoft India in Hyderabad, India. I specialise in building machine learning solutions. A lot of my work has been around building learning algorithms on structured datasets from databases and extracting useful representations of entities from unstructured datasets such as images and text.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+#### Contact Me
 
+[LinkedIn](https://www.linkedin.com/in/phanisrikanth/)
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[Twitter](https://twitter.com/phanisrikanth33)
