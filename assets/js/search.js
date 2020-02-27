@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://binga.github.io/about/",
     "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "body": "Welcome To My WebsiteI am Phani Srikanth and I currently work as a Data Scientist at Microsoft India in Hyderabad, India. I specialise in building machine learning solutions. A lot of my work has been around building learning algorithms on structured datasets from databases and extracting useful representations of entities from unstructured datasets such as images and text. Contact Me: LinkedIn Twitter "
     }, {
     "id": 2,
     "url": "https://binga.github.io/categories/",
