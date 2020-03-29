@@ -3,7 +3,7 @@ toc: true
 comments: true
 categories: [books, psychology]
 ---
-# Who Moved My Cheese from Robert Spencer
+# Who Moved My Cheese By Robert Spencer
 - "We deserve this Cheese," Hem said. "We certainly had to work long and hard enough to find it." He picked up a nice fresh piece and ate it. Afterward, Hem fell asleep, as he often did. Every night the Littlepeople would waddle home, full of Cheese, and every morning they would confidently return for more. This went on for quite some time. After a while Hem's and Haw's confidence grew into the arrogance of success. Soon they became so comfortable they didn’t even notice what was happening.
 - As time went on, Sniff and Scurry noticed the cheese quality was deteriorating over time. One morning they arrived at Cheese Station C and discovered there was no cheese. They weren’t surprised. Since Sniff and Scurry had noticed the supply of cheese had been getting smaller every day, they were prepared for the inevitable and knew instinctively what to do.
 - To the mice, the problem and the answer were both simple. The situation at Cheese Station C had changed. So, Sniff and Scurry decided to change.
