@@ -18,3 +18,5 @@ categories: [books, psychology]
 - Haw thought about going back again to Cheese Station C to see if he could find Hem—assuming that Haw could find his way back there. If he found Hem, he thought he might be able to show him how to get out of his predicament. But Haw realized that he had already tried to get his friend to change. Hem had to find his own way, beyond his comforts and past his fears. No one else could do it for him, or talk him into it. He somehow had to see the advantage of changing himself.
 - While Haw still had a great supply of Cheese, he often went out into the Maze and explored new areas to stay in touch with what was happening around him. He knew it was safer to be aware of his real choices than to isolate himself in his comfort zone.
 - "They said holding a picture of New Cheese in their minds—seeing themselves doing well in a new job—made them feel better, and helped them do better in job interviews. Several got better jobs."
+
+Other Reviews: [Goodreads](https://www.goodreads.com/book/show/25962556-who-moved-my-cheese)
